@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1496660237 source:f:\programmes c\projet langage c\saisie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1496657835 source:f:\programmes c\projet langage c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"saisie.h"
+	"table.h"
+
+1495717431 f:\programmes c\projet langage c\saisie.h
+
+1495711163 f:\programmes c\projet langage c\table.h
+
+1495714169 source:f:\programmes c\projet langage c\table.c
+	<windows.h>
+
+1496216164 source:f:\programmes c\projet langage c\modification.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1496647036 source:e:\setup\film\projet langage c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"saisie.h"
+	"table.h"
+
+1495706632 e:\setup\film\projet langage c\saisie.h
+
+1495700364 e:\setup\film\projet langage c\table.h
+
+1496205366 source:e:\setup\film\projet langage c\modification.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1496649438 source:e:\setup\film\projet langage c\saisie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1496657836 source:d:\td\autres\projet langage c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"saisie.h"
+	"table.h"
+
+1495717432 d:\td\autres\projet langage c\saisie.h
+
+1495711164 d:\td\autres\projet langage c\table.h
+
+1496216166 source:d:\td\autres\projet langage c\modification.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1496660238 source:d:\td\autres\projet langage c\saisie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+

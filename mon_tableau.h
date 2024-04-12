@@ -1,0 +1,6 @@
+#ifndef MON_TABLEAU_H_INCLUDED
+#define MON_TABLEAU_H_INCLUDED
+void tableau();
+
+
+#endif // MON_TABLEAU_H_INCLUDED
